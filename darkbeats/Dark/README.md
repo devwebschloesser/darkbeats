@@ -2,9 +2,6 @@
 
 Este projeto é uma landing page responsiva para fones de ouvido "Beats 3", desenvolvida com HTML, CSS e JavaScript. O design é moderno, adaptável a dispositivos móveis e apresenta os principais recursos, produtos e ofertas da marca.
 
-## 📸 Preview
-
-![Preview da Landing Page](assets/img/home.png)
 
 ## 🚀 Funcionalidades
 
@@ -45,18 +42,20 @@ Este projeto é uma landing page responsiva para fones de ouvido "Beats 3", dese
   
 
 <br>
-
+📸 Preview
 
 <h4 align="center"> DarkBeats Landing Page </h4>
 
 <p align="center">
    <img src="./assets/img/template.png" alt="dog" width="650"/>
 </p>
+<br>
 
 📱 Responsividade
 A interface foi desenhada para se adaptar perfeitamente a diferentes tamanhos de tela, proporcionando uma ótima experiência tanto em desktop quanto em dispositivos móveis.
 
-✍️ Autor
+✍️ Autor :
+<br>
 Feito com ❤️ e café. by [Leonardo Schloesser](https://github.com/devwebschloesser)
 
 
